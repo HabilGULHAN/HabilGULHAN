@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hi! I'm Enes Kerem "EKA" AYDIN
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HabilGULHAN.HabilGULHAN)](#)
+[![Steam](https://img.shields.io/badge/donate-steam-blue?logo=Steam&style=flat-square)](https://steamcommunity.com/tradeoffer/new/?partner=434566573&token=g789u6Uv)
+[![Discord](https://discord.com/api/guilds/817779288296128512/widget.png)](https://discord.gg/WdNKDdKGb7)
 
-<!--
-**HabilGULHAN/HabilGULHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Projects
+| Project | Status | Coding Language | Language | Repo | The language of the notes |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| [ProjectName](ProjectLink)| 7x24x365 online | - | - | - | - |
 
-Here are some ideas to get you started:
+## ✨ Repositories
+| Repo | Status | Coding Language | Language | The language of the notes |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [RepoName](https://github.com/HabilGULHAN/RepoLink)| - | - | - | - |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📷 Social Media & ☎️ Contact
+- [All](https://HabilGULHAN.github.io/bio)
+
+## Stats
+[![Habil "HG" GULHAN's](https://github-readme-stats.vercel.app/api?username=HabilGULHAN&show_icons=true&theme=dark)](#) - [![Habil "HG" GULHAN's](https://github-readme-stats.vercel.app/api/top-langs/?username=HabilGULHAN&layout=compact&theme=dark)](#)
