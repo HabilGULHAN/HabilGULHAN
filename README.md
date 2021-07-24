@@ -14,7 +14,7 @@
 | [RepoName](https://github.com/HabilGULHAN/RepoLink)| - | - | - | - |
 
 ## 📷 Social Media & ☎️ Contact
-- [All](https://HabilGULHAN.github.io/bio)
+- [All](https://HabilGULHAN.github.io/)
 
 ## Stats
 [![Habil "HG" GULHAN's](https://github-readme-stats.vercel.app/api?username=HabilGULHAN&show_icons=true&theme=dark)](#) - [![Habil "HG" GULHAN's](https://github-readme-stats.vercel.app/api/top-langs/?username=HabilGULHAN&layout=compact&theme=dark)](#)
