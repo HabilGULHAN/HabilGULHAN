@@ -1,5 +1,5 @@
-# 👋 Hİ! I'm Habil "HG" GÜLHAN
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HabilGULHAN.HabilGULHAN)](#)
+# 👋 Hİ! I'm Habil "xHbLanD" GÜLHAN
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=xHbLanD.HabilGULHAN)](#)
 [![Steam](https://img.shields.io/badge/donate-steam-blue?logo=Steam&style=flat-square)](https://steamcommunity.com/tradeoffer/new/?partner=875714323&token=r4tnPZaQ)
 [![Discord](https://discord.com/api/guilds/845319558960513045/widget.png)](https://discord.gg/WdNKDdKGb7)
 
@@ -11,10 +11,10 @@
 ## ✨ Repositories
 | Repo | Status | Coding Language | Language | The language of the notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [RepoName](https://github.com/HabilGULHAN/RepoLink)| - | - | - | - |
+| [RepoName](https://github.com/xHbLanD/RepoLink)| - | - | - | - |
 
 ## 📷 Social Media & ☎️ Contact
 - [All](https://HabilGULHAN.github.io/)
 
 ## Stats
-[![Habil "HG" GULHAN's](https://github-readme-stats.vercel.app/api?username=HabilGULHAN&show_icons=true&theme=dark)](#) - [![Habil "HG" GULHAN's](https://github-readme-stats.vercel.app/api/top-langs/?username=HabilGULHAN&layout=compact&theme=dark)](#)
+[![Habil "xHbLanD" GULHAN's](https://github-readme-stats.vercel.app/api?username=xHbLanD&show_icons=true&theme=dark)](#) - [![Habil "xHbLanD" GULHAN's](https://github-readme-stats.vercel.app/api/top-langs/?username=xHbLanD&layout=compact&theme=dark)](#)
